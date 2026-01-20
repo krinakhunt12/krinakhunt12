@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi 👋 I'm Krina 
 
-<!--
-**krinakhunt12/krinakhunt12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN Stack Developer  
+🚀 Building scalable web apps  
+📍 Ahmedabad, India  
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- React, Next.js
+- Node.js, Express
+- MongoDB
+- Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects
+- HR Management System
+- Agro Marketplace
+
+### 📫 Contact
+- Email: krinakhunt12@email.com
+- LinkedIn: www.linkedin.com/in/krina-khunt-232732267
