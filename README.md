@@ -94,8 +94,6 @@ Healthcare chatbot for medical assistance and information.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krinakhunt12&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krinakhunt12&theme=radical&hide_border=true)
-
 </div>
 
 ---
