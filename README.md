@@ -4,8 +4,8 @@
 
 ### 💻 MERN Stack Developer | 🚀 Problem Solver
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://krinakhunt.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krina-khunt-232732267)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://krinakhunt.in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/krinakhunt)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krinakhunt12@email.com)
 
 📍 Ahmedabad, India | 🎓 Tech Enthusiast | 🌱 Always Learning
@@ -112,9 +112,9 @@ Healthcare chatbot for medical assistance and information.
 
 I'm always excited to collaborate on interesting projects or discuss tech! Feel free to reach out:
 
-- 💼 Portfolio: [krinakhunt.vercel.app](https://krinakhunt.vercel.app/)
+- 💼 Portfolio: [krinakhunt.vercel.app](https://krinakhunt.in/)
 - 💌 Email: krinakhunt12@email.com
-- 🔗 LinkedIn: [Krina Khunt](https://www.linkedin.com/in/krina-khunt-232732267)
+- 🔗 LinkedIn: [Krina Khunt](www.linkedin.com/in/krinakhunt)
 
 ---
 
